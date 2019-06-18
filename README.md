@@ -19,7 +19,7 @@ The purpose if this exercise is to push the boundaries of [Descartes](https://gi
 
 ## How to apply Descartes?
 
-For this exercise Descartes 1.2.6-SNAPSHOT will be used. The compiled version can be found in the *resources* folder if this repository. 
+For this exercise Descartes 1.2.6-SNAPSHOT will be used. The compiled version can be found in the *resources* folder in this repository. 
 
 You can also build the tool from source:
 
