@@ -34,7 +34,9 @@ For projects using *Maven* and *Gradle* follow the instructions written in the [
 ### *Scala* projects using *sbt*
 
 Since *Scala* and *sbt* support for PIT are outdated, the PIT command line tool must be used to analyze such a project.
-First, add the following code snippet to the `build.sbt` file:
+
+First install *sbt*. See [here](https://www.scala-sbt.org/download.html).
+Then, add the following code snippet to the `build.sbt` file:
 
 ```
 lazy val printTestClasspath = taskKey[Unit]("Prints the test classpath")
