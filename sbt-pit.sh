@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 
 # Usage ./sbt-pit.sh scalaj-http-master "scala.http.*"
 
